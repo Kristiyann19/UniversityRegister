@@ -1,12 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Server\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\urdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UrDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\UrDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Ur.Models\\UrDbContext.cs",
+              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\UrDbContext.cs",
+              "RelativeToolTip": "..\\Ur.Models\\UrDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:28:35.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
