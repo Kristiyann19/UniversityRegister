@@ -1,0 +1,12 @@
+INSERT INTO Settlements (Id, Name, NameAlt, IsActive) VALUES (1, 'София', 'Sofia', 1);
+INSERT INTO Settlements (Id, Name, NameAlt, IsActive) VALUES (2, 'Пловдив', 'Plovdiv', 1);
+INSERT INTO Settlements (Id, Name, NameAlt, IsActive) VALUES (3, 'Варна', 'Varna', 1);
+INSERT INTO Settlements (Id, Name, NameAlt, IsActive) VALUES (4, 'Бургас', 'Burgas', 1);
+INSERT INTO Settlements (Id, Name, NameAlt, IsActive) VALUES (5, 'Русе', 'Ruse', 1);
+INSERT INTO Settlements (Id, Name, NameAlt, IsActive) VALUES (6, 'Стара Загора', 'Stara Zagora', 1);
+INSERT INTO Settlements (Id, Name, NameAlt, IsActive) VALUES (7, 'Плевен', 'Pleven', 1);
+INSERT INTO Settlements (Id, Name, NameAlt, IsActive) VALUES (8, 'Велико Търново', 'Veliko Tarnovo', 1);
+INSERT INTO Settlements (Id, Name, NameAlt, IsActive) VALUES (9, 'Благоевград', 'Blagoevgrad', 1);
+INSERT INTO Settlements (Id, Name, NameAlt, IsActive) VALUES (10, 'Шумен', 'Shumen', 1);
+INSERT INTO Settlements (Id, Name, NameAlt, IsActive) VALUES (11, 'Габрово', 'Gabrovo', 1);
+INSERT INTO Settlements (Id, Name, NameAlt, IsActive) VALUES (12, 'Свищов', 'Svishtov', 1);
