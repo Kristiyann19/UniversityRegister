@@ -1,6 +1,6 @@
 ﻿using Ur.Models.Entities.Base;
 
-namespace Ur.Models.Entities
+namespace Ur.Models.Entities.Nomenclatures
 {
     public class Settlement : Entity
     {

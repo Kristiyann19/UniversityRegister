@@ -1,14 +1,41 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Storage;
 using System.Reflection;
+using Ur.Models.Entities.Courses;
+using Ur.Models.Entities.Institution;
+using Ur.Models.Entities.Nomenclatures;
+using Ur.Models.Entities.People;
+using Ur.Models.Entities.People.Junctions;
 
 namespace Ur.Models
 {
     public class UrDbContext : DbContext
     {
+        #region People
+        DbSet<Dean> Deans { get; set; }
+        DbSet<Rector> Rectors { get; set; }
+        DbSet<Professor> Professors { get; set; }
+
+        DbSet<ProfessorCourse> ProfessorCourses { get; set; }
+        #endregion
+
+        #region Nomenclatures
+        DbSet<Settlement> Settlements { get; set; }
+        #endregion
+
+        #region Institutions
+        DbSet<Faculty> Faculties { get; set; }
+        DbSet<University> Universities { get; set; }
+        #endregion
+
+        #region Courses
+        DbSet<Course> Courses { get; set; }
+        #endregion
+
         public UrDbContext(DbContextOptions<UrDbContext> options)
             : base(options)
         {
+
         }
 
         public IDbContextTransaction BeginTransaction()
