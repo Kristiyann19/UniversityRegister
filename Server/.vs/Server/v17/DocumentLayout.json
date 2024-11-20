@@ -3,53 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{861BC15C-C0DF-4D12-B626-CD682E157ABF}|Server.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861BC15C-C0DF-4D12-B626-CD682E157ABF}|Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889F53C4-D4C3-41D3-B9B4-836196B06160}|..\\Ur.Services\\Ur.Services.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.services\\ur.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{861BC15C-C0DF-4D12-B626-CD682E157ABF}|Server.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{861BC15C-C0DF-4D12-B626-CD682E157ABF}|Server.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\urdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\enums\\universitytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\entities\\people\\junctions\\professorcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\entities\\institution\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\entities\\courses\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\entities\\institution\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\entities\\people\\rector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\entities\\people\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\entities\\people\\dean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\entities\\nomenclatures\\settlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\entities\\base\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\entities\\base\\names.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\enums\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\entities\\base\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\ur.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,6 +29,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:26:28.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ur.Services",
+              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Services\\Ur.Services.csproj",
+              "RelativeDocumentMoniker": "..\\Ur.Services\\Ur.Services.csproj",
+              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Services\\Ur.Services.csproj",
+              "RelativeToolTip": "..\\Ur.Services\\Ur.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T14:26:23.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UrDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\UrDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Ur.Models\\UrDbContext.cs",
+              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\UrDbContext.cs",
+              "RelativeToolTip": "..\\Ur.Models\\UrDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:33:40.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Server\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -71,200 +75,8 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-20T13:22:55.278Z",
+              "WhenOpened": "2024-11-20T13:34:10.191Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Names.cs",
-              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\Base\\Names.cs",
-              "RelativeDocumentMoniker": "..\\Ur.Models\\Entities\\Base\\Names.cs",
-              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\Base\\Names.cs",
-              "RelativeToolTip": "..\\Ur.Models\\Entities\\Base\\Names.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T12:23:43.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProfessorCourse.cs",
-              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\People\\Junctions\\ProfessorCourse.cs",
-              "RelativeDocumentMoniker": "..\\Ur.Models\\Entities\\People\\Junctions\\ProfessorCourse.cs",
-              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\People\\Junctions\\ProfessorCourse.cs",
-              "RelativeToolTip": "..\\Ur.Models\\Entities\\People\\Junctions\\ProfessorCourse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T12:07:51.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Dean.cs",
-              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\People\\Dean.cs",
-              "RelativeDocumentMoniker": "..\\Ur.Models\\Entities\\People\\Dean.cs",
-              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\People\\Dean.cs",
-              "RelativeToolTip": "..\\Ur.Models\\Entities\\People\\Dean.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T12:07:40.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Rector.cs",
-              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\People\\Rector.cs",
-              "RelativeDocumentMoniker": "..\\Ur.Models\\Entities\\People\\Rector.cs",
-              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\People\\Rector.cs",
-              "RelativeToolTip": "..\\Ur.Models\\Entities\\People\\Rector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T12:07:35.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\Courses\\Course.cs",
-              "RelativeDocumentMoniker": "..\\Ur.Models\\Entities\\Courses\\Course.cs",
-              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\Courses\\Course.cs",
-              "RelativeToolTip": "..\\Ur.Models\\Entities\\Courses\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T12:07:30.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Faculty.cs",
-              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\Institution\\Faculty.cs",
-              "RelativeDocumentMoniker": "..\\Ur.Models\\Entities\\Institution\\Faculty.cs",
-              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\Institution\\Faculty.cs",
-              "RelativeToolTip": "..\\Ur.Models\\Entities\\Institution\\Faculty.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T12:07:24.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UniversityType.cs",
-              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Enums\\UniversityType.cs",
-              "RelativeDocumentMoniker": "..\\Ur.Models\\Enums\\UniversityType.cs",
-              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Enums\\UniversityType.cs",
-              "RelativeToolTip": "..\\Ur.Models\\Enums\\UniversityType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T11:41:10.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Settlement.cs",
-              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\Nomenclatures\\Settlement.cs",
-              "RelativeDocumentMoniker": "..\\Ur.Models\\Entities\\Nomenclatures\\Settlement.cs",
-              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\Nomenclatures\\Settlement.cs",
-              "RelativeToolTip": "..\\Ur.Models\\Entities\\Nomenclatures\\Settlement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T11:39:34.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\Base\\Entity.cs",
-              "RelativeDocumentMoniker": "..\\Ur.Models\\Entities\\Base\\Entity.cs",
-              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\Base\\Entity.cs",
-              "RelativeToolTip": "..\\Ur.Models\\Entities\\Base\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T13:18:03.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Ur.Models.csproj",
-              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Ur.Models.csproj",
-              "RelativeDocumentMoniker": "..\\Ur.Models\\Ur.Models.csproj",
-              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Ur.Models.csproj",
-              "RelativeToolTip": "..\\Ur.Models\\Ur.Models.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-18T13:14:55.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Professor.cs",
-              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\People\\Professor.cs",
-              "RelativeDocumentMoniker": "..\\Ur.Models\\Entities\\People\\Professor.cs",
-              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\People\\Professor.cs",
-              "RelativeToolTip": "..\\Ur.Models\\Entities\\People\\Professor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T13:13:09.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "University.cs",
-              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\Institution\\University.cs",
-              "RelativeDocumentMoniker": "..\\Ur.Models\\Entities\\Institution\\University.cs",
-              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\Institution\\University.cs",
-              "RelativeToolTip": "..\\Ur.Models\\Entities\\Institution\\University.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T13:13:01.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UrDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\UrDbContext.cs",
-              "RelativeDocumentMoniker": "..\\Ur.Models\\UrDbContext.cs",
-              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\UrDbContext.cs",
-              "RelativeToolTip": "..\\Ur.Models\\UrDbContext.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T08:28:35.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IEntity.cs",
-              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\Base\\IEntity.cs",
-              "RelativeDocumentMoniker": "..\\Ur.Models\\Entities\\Base\\IEntity.cs",
-              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Entities\\Base\\IEntity.cs",
-              "RelativeToolTip": "..\\Ur.Models\\Entities\\Base\\IEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T13:18:12.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Position.cs",
-              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Enums\\Position.cs",
-              "RelativeDocumentMoniker": "..\\Ur.Models\\Enums\\Position.cs",
-              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Enums\\Position.cs",
-              "RelativeToolTip": "..\\Ur.Models\\Enums\\Position.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T11:48:25.003Z"
             }
           ]
         }
