@@ -3,6 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6357A77D-D4F9-410F-834D-E44CDBF56119}|..\\Ur.Repositories\\Ur.Repositories.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.repositories\\base\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\enums\\common\\includetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\filterdtos\\base\\ifilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6357A77D-D4F9-410F-834D-E44CDBF56119}|..\\Ur.Repositories\\Ur.Repositories.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.repositories\\base\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\filterdtos\\base\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133D4A7B-9218-4F6E-A06A-C8809A335A71}|..\\Ur.Models\\Ur.Models.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\ur.models\\migrations\\20241120143012_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{861BC15C-C0DF-4D12-B626-CD682E157ABF}|Server.csproj|c:\\users\\kristiyan.karamilev\\desktop\\papki\\bokluci proekti\\universityregisterapp\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{861BC15C-C0DF-4D12-B626-CD682E157ABF}|Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -24,11 +42,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IncludeType.cs",
+              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Enums\\Common\\IncludeType.cs",
+              "RelativeDocumentMoniker": "..\\Ur.Models\\Enums\\Common\\IncludeType.cs",
+              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Enums\\Common\\IncludeType.cs",
+              "RelativeToolTip": "..\\Ur.Models\\Enums\\Common\\IncludeType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:14:40.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Repositories\\Base\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "..\\Ur.Repositories\\Base\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Repositories\\Base\\IRepositoryBase.cs",
+              "RelativeToolTip": "..\\Ur.Repositories\\Base\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:12:13.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Repositories\\Base\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "..\\Ur.Repositories\\Base\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Repositories\\Base\\RepositoryBase.cs",
+              "RelativeToolTip": "..\\Ur.Repositories\\Base\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:12:03.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\FilterDtos\\Base\\IFilterDto.cs",
+              "RelativeDocumentMoniker": "..\\Ur.Models\\FilterDtos\\Base\\IFilterDto.cs",
+              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\FilterDtos\\Base\\IFilterDto.cs",
+              "RelativeToolTip": "..\\Ur.Models\\FilterDtos\\Base\\IFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:10:41.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\FilterDtos\\Base\\FilterDto.cs",
+              "RelativeDocumentMoniker": "..\\Ur.Models\\FilterDtos\\Base\\FilterDto.cs",
+              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\FilterDtos\\Base\\FilterDto.cs",
+              "RelativeToolTip": "..\\Ur.Models\\FilterDtos\\Base\\FilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:10:17.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241120143012_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Migrations\\20241120143012_Initial.cs",
+              "RelativeDocumentMoniker": "..\\Ur.Models\\Migrations\\20241120143012_Initial.cs",
+              "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\Migrations\\20241120143012_Initial.cs",
+              "RelativeToolTip": "..\\Ur.Models\\Migrations\\20241120143012_Initial.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:30:12.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -36,25 +132,23 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T14:26:28.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T14:26:28.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ur.Services",
+              "DocumentIndex": 7,
+              "Title": "Ur.Services.csproj",
               "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Services\\Ur.Services.csproj",
               "RelativeDocumentMoniker": "..\\Ur.Services\\Ur.Services.csproj",
               "ToolTip": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Services\\Ur.Services.csproj",
               "RelativeToolTip": "..\\Ur.Services\\Ur.Services.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-20T14:26:23.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T14:26:23.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "UrDbContext.cs",
               "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Ur.Models\\UrDbContext.cs",
               "RelativeDocumentMoniker": "..\\Ur.Models\\UrDbContext.cs",
@@ -62,12 +156,11 @@
               "RelativeToolTip": "..\\Ur.Models\\UrDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T13:33:40.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T13:33:40.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kristiyan.karamilev\\Desktop\\papki\\Bokluci proekti\\UniversityRegisterApp\\Server\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -75,8 +168,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-20T13:34:10.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T13:34:10.191Z"
             }
           ]
         }
